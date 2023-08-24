@@ -1,0 +1,31 @@
+
+/* Style the button */
+.styled_button {
+    background: #3498db;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;;
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.header_site-header {
+    margin-top: 20px;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.styled_button:hover{
+    background-color: #2980b9;
+}
+
+
