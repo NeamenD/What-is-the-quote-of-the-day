@@ -1,6 +1,6 @@
 # Random Quote Generator Web App
 
-![App Screenshot]<video src="20230825-1719-26.8866593.mp4" controls title="Instruction"></video>
+[![Random Message Generator Demo]<video src="20230825-1719-26.8866593.mp4" controls title="Instruction"></video>
 Welcome to the Random Message Generator web application!
 This is a simple project built to demonstrate the generation of random messages
 every time a user clicks a button. It's a fun way to display different messages and add
