@@ -1,15 +1,20 @@
 
 /* Style the button */
-.styled_button {
+#styledButton {
     background: #3498db;
     color: white;
-    padding: 10px 35px;
+    padding: 10px 45px;
     border-radius: 5px;
     border: none;
-    font-size: 16px;;
+    font-size: 16px;
     margin-top: 540px;
-    margin-left: -200px;
-    margin-bottom: 240px;
+    margin-left: -220px;
+    margin-bottom: 70px;
+    font-style:oblique;
+    font-weight: 900px;
+    letter-spacing: 0.07em;
+    border:  solid #024771;
+    
     
     
 }
@@ -24,20 +29,21 @@
 }
 
 .header_site-header {
-    margin-top: 5px;
+    margin-top: 5px 5px;
     background-color: #333;
     color: white;
     padding: 10px;
     text-align: center;
     margin-bottom: 1px;
 }
-.styled_button:hover{
+#styledButton:hover{
     background-color: #2980b9;
 }
 
 .card{
-    margin-bottom: 340px;
+    margin-bottom: 200px;
     padding-bottom: 0px;
+    margin-left: center;
 }
 
 .card img {
@@ -46,20 +52,19 @@
 }
 
 .card:hover {
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
     transform: scale(1.05);
 }
 
-.card:hover {
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-}
-
-#card-text{
-    color: aliceblue;
+#cardText{
+    color: rgb(200, 210, 219);
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    font-weight: bolder;
+    font-weight:900px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
     
 
 }

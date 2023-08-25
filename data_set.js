@@ -1,4 +1,4 @@
-[
+const myArray = [
     {
         "quote": "Be yourself; everyone else is already taken.",
         "author": "Oscar Wilde",
@@ -1547,3 +1547,4 @@
         ]
     }
 ]
+export default myArray
